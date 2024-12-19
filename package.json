@@ -27,6 +27,7 @@
     "@types/node": "^20.8.7"
   },
   "dependencies": {
+    "css-checkout-payment-page": "file:",
     "live-server": "^1.2.2"
   }
 }
